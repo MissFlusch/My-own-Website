@@ -23,6 +23,10 @@ body {
     text-decoration: none;
 }
 
+.links:hover {
+    text-decoration: underline;
+}
+
 .titleColumn {
     background: #333;
     padding: 30px;
@@ -64,4 +68,5 @@ body {
     text-align: center;
     padding-bottom: 5px;
     padding-top: 5px;
+    font-size: 17px;
 }
